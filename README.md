@@ -21,3 +21,7 @@ Enter a search query in the provided input field and press Enter or click the "S
 Browse through the search results and click on an image to view its details.
 
 Feel free to explore and customize the project as needed. Contributions and suggestions are welcome!
+
+![ImageSearch2](https://github.com/CreateWithTerence/PicQuest/assets/77237002/4456e29a-bd68-45ed-b862-5525879b2bdc)
+
+![ImageSearch](https://github.com/CreateWithTerence/PicQuest/assets/77237002/8a470e5f-48ff-4231-b232-3940fb83895d)
